@@ -5,7 +5,8 @@ This works best for classes
 
 How To Use
 ```
-- Run setup.py to automatically to install the required modules. Alternatively you can manually install is using requirements.txt
+- Run setup.py to automatically to install the required modules. Alternatively you 
+  can manually install is using requirements.txt
 
 - Enter values into csv file, be absolutely sure to enter data into Time/End Time rows as formatted:
  05:30, 08:10 or 10:00, 12:12
@@ -15,11 +16,12 @@ How To Use
 
 Troubleshooting 
 ```
-- It is reccomended to run screener.py and crop them yourself, for pictures of indivdual buttons. 
-Look at buttons folder for reference, Additionally be sure to keep the same name for the images your replace
+- It is reccomended to run screener.py and crop them yourself, for pictures 
+of indivdual buttons. Look at buttons folder for reference, Additionally be sure
+ to keep the same name for the images your replace
 
-  - It's reccomended to use screener.py since the button images may not work for your screen size due to 
-  need for imaging to be pixel perfect
+  - It's reccomended to use screener.py since the button images may not 
+  work for your screen size due to need for imaging to be pixel perfect
 ```
 
 Todo
