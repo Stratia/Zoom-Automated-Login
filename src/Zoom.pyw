@@ -139,7 +139,7 @@ def get_time():
                     print(PM_AM_now)
                     print(csv_time)
                     if (set_hour == hour_now) and (am_pm.lower() == PM_AM_now.lower()) and (set_minute == minute_now):
-                        # Checs if the inputted csv_time aligns with the current csv_time.
+                        # Checs if the inputted csv_time aligns with the current time.
                         auto_login()
 
                     if (set_hour == None) or (am_pm == None) or (set_minute == None) or (meeting_id == None):
