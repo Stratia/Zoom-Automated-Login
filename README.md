@@ -1,7 +1,7 @@
 # Zoom-Automated-Login
 
 This program automatically logins you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
-This works best for classes
+You can input however many scheduled sessions as you like.
 
 ## **How To Use**
 ```
