@@ -9,7 +9,7 @@ This program automatically logs you into a Zoom session at your alloted time. Op
 
 ## **How To Use**
 • Run setup.py to automatically to install the required modules and to create CSV. Alternatively you 
-  can manually install is using requirements.txt
+  can manually install modules using requirements.txt
   
   • Enter values into csv file, be absolutely sure to enter data into Time/End Time rows as formatted:
  05:30, 08:10 or 10:00, 12:12
