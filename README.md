@@ -5,7 +5,7 @@ This works best for classes
 
 ## **How To Use**
 ```
-- Run setup.py to automatically to install the required modules. Alternatively you 
+- Run setup.py to automatically to install the required modules and to create CSV. Alternatively you 
   can manually install is using requirements.txt
 
 - Enter values into csv file, be absolutely sure to enter data into Time/End Time rows as formatted:
