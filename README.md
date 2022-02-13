@@ -3,7 +3,7 @@
 This program automatically logins you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
 This works best for classes
 
-How To Use
+## **How To Use**
 ```
 - Run setup.py to automatically to install the required modules. Alternatively you 
   can manually install is using requirements.txt
@@ -14,7 +14,7 @@ How To Use
  - Run Zoom.py and wait untill alloted time.
 ```
 
-Reccomended before use
+## **Reccomended before use**
 ```
 - It is reccomended to run screener.py and crop them yourself, for pictures 
 of indivdual buttons. Look at buttons folder for reference, Additionally be sure
