@@ -13,6 +13,7 @@ This works best for classes
  
  - Run Zoom.py and wait untill alloted time.
 ```
+Note: Be sure to activate windows notifcations for script start popup (Optional)
 
 ## **Reccomended before use**
 ```
