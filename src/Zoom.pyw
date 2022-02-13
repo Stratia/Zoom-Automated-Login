@@ -29,7 +29,7 @@ hour_now = date.strftime('%I')
 minute_now = date.strftime('%M')
 PM_AM_now = date.strftime('%p').lower()
 
-Notification(title='Zoom Auto Login',description='Script will activate upon designated csv_time',
+Notification(title='Zoom Auto Login',description='Script will activate upon designated time',
              icon_path='assets\pl.ico',duration=8).send()
 
 for index in (hour_now):
