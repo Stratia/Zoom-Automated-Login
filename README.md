@@ -1,4 +1,7 @@
-# Zoom-Automated-Login
+
+<p align="center">
+  <img width=50% src="Zoom.jpg" alt="Material Bread logo">
+</p>
 
 This program automatically logins you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
 
