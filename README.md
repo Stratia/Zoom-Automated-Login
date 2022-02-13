@@ -5,7 +5,7 @@
 
 
 ## **Zoom Automation**
-This program automatically logins you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
+This program automatically logs you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
 
 ## **How To Use**
 • Run setup.py to automatically to install the required modules and to create CSV. Alternatively you 
