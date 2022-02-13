@@ -78,7 +78,7 @@ def auto_login():
     join_button_locate4 = pyautogui.locateOnScreen(r'button\JoinB.png')
     buttonx3, buttony3 = pyautogui.center(join_button_locate4)
     pyautogui.click(buttonx3, buttony3)
-    print('SiongCum1')
+    
     time.sleep(10)
     if end_PM_AM == None:
         get_time()
