@@ -19,7 +19,8 @@ This program automatically logs you into a Zoom session at your alloted time. Op
   • Once your done be sure to run kill_process.py (In assets) to ensure it doesn't run in the background when your
  done with it.
  
-  Note: Be sure to activate windows notifcations for script start popup (Optional)
+  Note: Be sure to activate windows notifcations from other senders in Notifcations & Actions to receiver
+  script startup mesasge (Optional)
 
 ## **Recomended before use**
 
