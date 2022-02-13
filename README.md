@@ -13,6 +13,8 @@ manually leaving through the program its self.
  05:30, 08:10 or 10:00, 12:12
  
  - Run Zoom.py and wait untill alloted time.
+ 
+ - Once your done be sure to run kill_process.py to ensure it doesn't run in the background
 ```
 Note: Be sure to activate windows notifcations for script start popup (Optional)
 
