@@ -14,7 +14,7 @@ manually leaving through the program its self.
  
  - Run Zoom.py and wait untill alloted time.
  
- - Once your done be sure to run kill_process.py to ensure it doesn't run in the background
+ - Once your done be sure to run kill_process.py (In assets) to ensure it doesn't run in the background
 ```
 Note: Be sure to activate windows notifcations for script start popup (Optional)
 
