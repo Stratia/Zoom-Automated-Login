@@ -28,7 +28,8 @@ of indivdual buttons. Look at buttons folder for reference, Additionally be sure
  to keep the same name for the images your replace.
  
 • It's reccomended to use screener.py since the button images may not 
-  work for your screen size due to need for PyAutoGUi's imaging to be pixel perfect
+  work for your screen size due to need for PyAutoGUi's imaging to be pixel perfect additionally
+  doing screenshots the usual way may not be applicable for PyAutoGui's needs.
   Abeit this can get cumbersome so do this if your sure you need to
 
 Todo
