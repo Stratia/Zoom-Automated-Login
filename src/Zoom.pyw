@@ -143,7 +143,6 @@ def end_check():
         minute_now2 = date2.strftime('%M')
         PM_AM_now2 = date2.strftime('%p').lower()
         if (end_set_hour == hour_now2) and (end_set_minute == minute_now2) and (end_PM_AM.lower() == PM_AM_now2.lower()):
-            print('Cum')
             kill_zoom()
 
 try:
