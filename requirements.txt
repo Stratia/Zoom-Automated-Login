@@ -1,0 +1,3 @@
+PyAutoGUI
+py-notifier
+psutil
