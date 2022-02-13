@@ -33,6 +33,6 @@ of indivdual buttons. Look at buttons folder for reference, Additionally be sure
 Todo
 ```
 - Activate Script on Start-up
-- Include Bat or py script  automatically turn on windows pop ups and install packages
+- Optimize
 ```
 
