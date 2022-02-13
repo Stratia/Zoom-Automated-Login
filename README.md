@@ -20,7 +20,7 @@ manually leaving through the program its self.
 ```
 Note: Be sure to activate windows notifcations for script start popup (Optional)
 
-## **Reccomended before use**
+## **Recomended before use**
 ```
 - It is reccomended to run screener.py and crop them yourself, for pictures 
 of indivdual buttons. Look at buttons folder for reference, Additionally be sure
