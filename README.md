@@ -1,7 +1,8 @@
 # Zoom-Automated-Login
 
 This program automatically logins you into a Zoom session at your alloted time. Optionally you can choose to have end the session at your allotted time.
-You can input however many scheduled sessions as you like.
+You can input however many scheduled sessions as you like. When the program reaches the end of the session time, my script uses subprocess to kill Zoom instead of
+manually leaving through the program its self.
 
 ## **How To Use**
 ```
