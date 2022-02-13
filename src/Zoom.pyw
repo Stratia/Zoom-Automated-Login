@@ -95,7 +95,6 @@ def get_time():
     end_new_hour.append(n4)
     end_set_minute = "".join(end_new_minute)
     end_set_hour = "".join(end_new_hour)
-    print(end_set_hour)
     try:
         parse = (list(map(str, csv_time)))
         p1 = parse[-1]
