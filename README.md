@@ -14,23 +14,22 @@ This program automatically logs you into a Zoom session at your alloted time. Op
   • Enter values into csv file, be absolutely sure to enter data into Time/End Time rows as formatted:
  05:30, 08:10 or 10:00, 12:12
  
-  •Run Zoom.py and wait untill alloted time.
+  • Run Zoom.py and wait untill alloted time.
   
-  •Once your done be sure to run kill_process.py (In assets) to ensure it doesn't run in the background when your
+  • Once your done be sure to run kill_process.py (In assets) to ensure it doesn't run in the background when your
  done with it.
  
   Note: Be sure to activate windows notifcations for script start popup (Optional)
 
 ## **Recomended before use**
-```
-- It is reccomended to run screener.py and crop them yourself, for pictures 
+
+• It is reccomended to run screener.py and crop them yourself, for pictures 
 of indivdual buttons. Look at buttons folder for reference, Additionally be sure
  to keep the same name for the images your replace.
-
-  - It's reccomended to use screener.py since the button images may not 
+ 
+• It's reccomended to use screener.py since the button images may not 
   work for your screen size due to need for PyAutoGUi's imaging to be pixel perfect
   Abeit this can get cumbersome so do this if your sure you need to
-```
 
 Todo
 ```
