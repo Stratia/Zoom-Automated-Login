@@ -1,9 +1,0 @@
-
-1: Run setup.py to install required packages for Zoom.py and to Create CSV
-alternatively install modules from requirements.txt through command line
-
-2: Enter values into csv file, be absolutely sure to enter data into
-time/End Time rows as formatted 
-Example: 05:30, 08:10 or 10:00, 12:12
-
-3: Run Zoom.py and wait untill alloted time.
