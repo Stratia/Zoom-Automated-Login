@@ -7,7 +7,7 @@ import time
 import json
 import csv
 import os
-# Todo: Fix everything for the love of god
+
 
 """
 For logging PID for kill_process.py to ensure Zoom.pyw 
